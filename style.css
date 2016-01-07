@@ -1,0 +1,22 @@
+html {
+  background-color: #000;
+  color: #ddd;
+}
+
+.home {
+  background: url('http://www.archeeve.com/assets/images/background2.jpg') no-repeat center;
+  background-size: cover;
+  min-height: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row {
+  display: inline-block;
+}
+
+.box {
+  box-sizing: border-box;
+}
